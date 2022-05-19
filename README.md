@@ -1,9 +1,7 @@
-# Project 2 Starter Code
+# File Sharing System
 
-This repository contains the starter code for Project 2!
+This repository contains the the code for project 2 of CS161 at UC Berkeley
 
-For comprehensive documentation, see the Project 2 Spec (https://proj2.cs161.org/getting-started-coding/).
+Implementation in `client/client.go`, and tests in `client_test/client_test.go`.
 
-Write your implementation in `client/client.go`, and your tests in `client_test/client_test.go`.
-
-To test your implementation, run `go test -v` inside of the `client_test` directory.
+To test the implementation, run `go test -v` inside of the `client_test` directory.
